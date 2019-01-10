@@ -1,0 +1,48 @@
+.aboutImgs{
+    height: 300px;
+    width: 400px;
+}
+
+.navBG{
+
+    background-color: rgb(125, 182, 223);
+
+};
+
+
+
+/*NAVBAR LINKS*/
+.navbar div ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.navbar-collapse > div a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+
+};
+
+/* ABOUT US */
+.card-title h2{
+    color:rgb(125, 182, 223);
+}
+
+.service-tile {
+    background-color: rgb(38, 48, 57);
+    color: rgb(242, 242, 244);
+    height: 235px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 18px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-image: initial;
+}
+
+
+
+
